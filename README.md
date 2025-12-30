@@ -4,12 +4,6 @@ This is a demo app of an e-commerce platform. The products are gotten from the [
 
 ## How to use
 
-Clone the project:
-
-```bash
-git clone https://github.com/ViaxCo/ecommerce-demo.git
-```
-
 Install dependencies:
 
 ```bash
